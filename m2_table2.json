@@ -1,0 +1,19 @@
+
+{
+    "schema": {
+        "table_name": "m2_table2",
+        "column_names": [
+            "s",
+            "pi",
+            "b"
+        ],
+        "column_types": [
+            "string",
+            "integer",
+            "boolean"
+        ],
+        "primary_index": 1
+    },
+    "state": [
+    ]
+}
