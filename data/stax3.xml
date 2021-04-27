@@ -1,0 +1,17 @@
+<lists size="3">
+    <list size="4">
+        <value type="string" length="4">beta</value>
+        <value type="string" length="4">zeta</value>
+        <value type="string" length="3">eta</value>
+        <value type="string" length="5">theta</value>
+    </list>
+    <list size="2">
+        <value type="string" length="7">epsilon</value>
+        <value type="string" length="7">upsilon</value>
+    </list>
+    <list size="3">
+        <value type="string" length="3">phi</value>
+        <value type="string" length="3">psi</value>
+        <value type="string" length="3">chi</value>
+    </list>
+</lists>

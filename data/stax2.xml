@@ -1,0 +1,17 @@
+<map>
+    <entry key="beta">
+        <value string-data="beta"/>
+        <value string-data="zeta"/>
+        <value string-data="eta"/>
+        <value string-data="theta"/>
+    </entry>
+    <entry key="epsilon">
+        <value string-data="epsilon"/>
+        <value string-data="upsilon"/>
+    </entry>
+    <entry key="phi">
+        <value string-data="phi"/>
+        <value string-data="psi"/>
+        <value string-data="chi"/>
+    </entry>
+</map>

@@ -1,0 +1,43 @@
+<table>
+    <schema>
+        <table_name>m2_table2</table_name>
+        <column_names>
+            <name>ps</name>
+            <name>i</name>
+            <name>b</name>
+        </column_names>
+        <column_types>
+            <type>string</type>
+            <type>integer</type>
+            <type>boolean</type>
+        </column_types>
+        <primary_index>0</primary_index>
+    </schema>
+    <state>
+        <row>
+            <element>CAT</element>
+            <element null="yes"/>
+            <element null="yes"/>
+        </row>
+        <row>
+            <element>C324324 </element>
+            <element null="yes"/>
+            <element null="yes"/>
+        </row>
+        <row>
+            <element>CA  223</element>
+            <element>2</element>
+            <element>false</element>
+        </row>
+        <row>
+            <element>a37450923740859723498572089570928</element>
+            <element null="yes"/>
+            <element>false</element>
+        </row>
+        <row>
+            <element>a974085972349857208957092837459081</element>
+            <element>2</element>
+            <element null="yes"/>
+        </row>
+    </state>
+</table>

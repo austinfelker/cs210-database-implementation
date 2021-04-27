@@ -1,0 +1,44 @@
+
+{
+    "schema": {
+        "table_name": "m2_table2",
+        "column_names": [
+            "ps",
+            "i",
+            "b"
+        ],
+        "column_types": [
+            "string",
+            "integer",
+            "boolean"
+        ],
+        "primary_index": 0
+    },
+    "state": [
+        [
+            "CAT",
+            null,
+            null
+        ],
+        [
+            "C324324 ",
+            null,
+            null
+        ],
+        [
+            "CA  223",
+            2,
+            false
+        ],
+        [
+            "a37450923740859723498572089570928",
+            null,
+            false
+        ],
+        [
+            "a974085972349857208957092837459081",
+            2,
+            null
+        ]
+    ]
+}

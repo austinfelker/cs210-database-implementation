@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="grade.Module0" tests="20" skipped="0" failures="0" errors="0" timestamp="2020-09-15T13:45:02" hostname="DESKTOP-335T309" time="0.093">
+  <properties/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[1]" classname="grade.Module0" time="0.039"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[2]" classname="grade.Module0" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[3]" classname="grade.Module0" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[4]" classname="grade.Module0" time="0.003"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[5]" classname="grade.Module0" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[6]" classname="grade.Module0" time="0.001"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[7]" classname="grade.Module0" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[8]" classname="grade.Module0" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[9]" classname="grade.Module0" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[10]" classname="grade.Module0" time="0.001"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[11]" classname="grade.Module0" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[12]" classname="grade.Module0" time="0.002"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[13]" classname="grade.Module0" time="0.001"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[14]" classname="grade.Module0" time="0.001"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[15]" classname="grade.Module0" time="0.001"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[16]" classname="grade.Module0" time="0.001"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[17]" classname="grade.Module0" time="0.001"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[18]" classname="grade.Module0" time="0.001"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[19]" classname="grade.Module0" time="0.001"/>
+  <testcase name="testQuery(boolean, String, String, String, Table)[20]" classname="grade.Module0" time="0.001"/>
+  <system-out><![CDATA[SQUARES BELOW 20
+SQUARES BELOW 16
+SQUARES BELOW 0
+SQUARES BELOW 1000
+SQUARES BELOW 500 AS a
+SQUARES BELOW 100 AS a
+SQUARES BELOW 100 AS x
+SQUARES BELOW 1000 AS a, b
+SQUARES BELOW 50 AS a, b
+SQUARES BELOW 50 AS a, a
+squares below 20 as A, B
+SQUARES  BELOW  20 AS a ,b 
+SQUARESBELOW20ASa,b
+SQUARES 20
+BELOW 20
+SQUARES BELOW AS a, b
+SQUARES BELOW 20 AS a b
+SQUARES BELOW 20 AS a,
+SQUARES BELOW 20 AS , b
+ECHO "Hello, world!"
+[M0 PASSED 100% OF UNIT TESTS]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
